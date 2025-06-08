@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: malikahmad6666666@gmail.com
-- ⚡ Fun fact: I'm funny.
+- ⚡ Fun fact: I'm hungry.
   
 ### Connect with me:
 <div id="badges">
