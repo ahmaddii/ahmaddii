@@ -29,10 +29,10 @@
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,linux,figma,cpp,androidstudio&perline=5)](https://skillicons.dev)
 
 ### Frontend Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap,wordpress,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap,wordpress,python,ts,nextjs)](https://skillicons.dev)
 
 ### Backend Languages:
-[![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,mysql,supabase)](https://skillicons.dev)
 
 
 ![Malik Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmaddii&show_icons=true&theme=dark)
