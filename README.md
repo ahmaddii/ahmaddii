@@ -1,10 +1,10 @@
  <h1 align="center">Hi 👋, I'm Malik Ahmad Rasheed</h1>
 
-- 🔭 I’m currently working on Flutter
+- 🔭 I’m currently working on Full Stack Development
 - 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
+- 💬 Ask me anything about Software Engineering 
 - 📫 How to reach me: malikahmad6666666@gmail.com
-- ⚡ Fun fact: I'm hungry.
+- ⚡ Fun fact: I'm Bug Fixer.
   
 ### Connect with me:
 <div id="badges">
@@ -26,7 +26,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,linux,figma,cpp,androidstudio&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,linux,figma,kali,cpp,androidstudio&perline=5)](https://skillicons.dev)
 
 ### Frontend Languages:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap,wordpress,python,ts,nextjs)](https://skillicons.dev)
@@ -35,7 +35,7 @@
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,supabase,postgres)](https://skillicons.dev)
 
 ### Restful API:
-[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,gitlab)](https://skillicons.dev)
 
 
 ![Malik Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmaddii&show_icons=true&theme=dark)
