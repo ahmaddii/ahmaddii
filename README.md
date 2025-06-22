@@ -32,7 +32,10 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap,wordpress,python,ts,nextjs)](https://skillicons.dev)
 
 ### Backend Languages:
-[![My Skills](https://skillicons.dev/icons?i=php,mysql,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,mysql,supabase,postgres)](https://skillicons.dev)
+
+### Restful API:
+[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 
 
 ![Malik Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmaddii&show_icons=true&theme=dark)
