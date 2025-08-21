@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Malik Ahmad Rasheed</h1>
 
-- 🔭 I’m currently working on Full Stack Development
-- 🌱 I’m currently learning Javascript
+- 🔭 I’m currently working on Full Stack Web and App Development
+- 🌱 I’m currently learning GOLANG with Backend
 - 💬 Ask me anything about Software Engineering 
 - 📫 How to reach me: malikahmad6666666@gmail.com
 - ⚡ Fun fact: I'm Bug Fixer.
