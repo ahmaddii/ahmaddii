@@ -29,7 +29,7 @@
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,linux,figma,kali,cpp,androidstudio&perline=5)](https://skillicons.dev)
 
 ### Frontend Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap,wordpress,python,ts,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap,react,wordpress,python,ts,nextjs)](https://skillicons.dev)
 
 ### Backend Languages:
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,go,supabase,postgres)](https://skillicons.dev)
