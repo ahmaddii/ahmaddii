@@ -32,7 +32,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap,wordpress,python,ts,nextjs)](https://skillicons.dev)
 
 ### Backend Languages:
-[![My Skills](https://skillicons.dev/icons?i=php,mysql,supabase,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,mysql,go,supabase,postgres)](https://skillicons.dev)
 
 ### Restful API:
 [![My Skills](https://skillicons.dev/icons?i=postman,gitlab)](https://skillicons.dev)
