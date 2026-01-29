@@ -38,10 +38,6 @@
 [![My Skills](https://skillicons.dev/icons?i=postman,gitlab)](https://skillicons.dev)
 
 
-![Malik Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmaddii&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmaddii&theme=dark)
-
 
 <br>
 ⭐️ From [MalikAhmad](https://github.com/ahmaddii)
