@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Android Development
 - 🌱 I’m currently learning Kotlin 
-- 💬 Ask me anything about Software Engineering 
+- 💬 Ask me anything about Tech
 - 📫 How to reach me: malikahmad6666666@gmail.com
 - ⚡ Fun fact: I'm Bug Fixer.
   
