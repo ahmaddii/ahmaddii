@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Malik Ahmad Rasheed</h1>
 
-- 🔭 I’m currently working on Android Development
-- 🌱 I’m currently learning Kotlin 
+- 🔭 I’m currently working on AI And Machine Learning
+- 🌱 I’m currently learning Python
 - 💬 Ask me anything about Tech
 - 📫 How to reach me: malikahmad6666666@gmail.com
 - ⚡ Fun fact: I'm Bug Fixer.
