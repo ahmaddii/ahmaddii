@@ -1,15 +1,24 @@
 <h1 align="center">Hi 👋, I'm Malik Ahmad Rasheed</h1>
 
-<p align="center">
-  <img width="150" height="150" alt="Mongryong waving" src="https://github.com/user-attachments/assets/8ccb4959-81f6-4a76-a32a-e0394e99f820" />
-</p>
+<table>
+<tr>
+<td>
 
 - 🔭 I’m currently working on AI And Machine Learning
 - 🌱 I’m currently learning Python
 - 💬 Ask me anything about Tech
-- 📫 How to reach me: malikahmad6666666@gmail.com
+- 📫 How to reach me: [malikahmad6666666@gmail.com](mailto:malikahmad6666666@gmail.com)
 - ⚡ Fun fact: I'm Bug Fixer.
-  
+
+</td>
+<td width="150">
+
+<img width="150" height="150" alt="Mongryong waving" src="https://github.com/user-attachments/assets/8ccb4959-81f6-4a76-a32a-e0394e99f820" />
+
+</td>
+</tr>
+</table>
+
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/ahmaddii">
