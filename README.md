@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Malik Ahmad Rasheed</h1>
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td valign="top">
 
 - 🔭 I’m currently working on AI And Machine Learning
 - 🌱 I’m currently learning Python
@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I'm Bug Fixer.
 
 </td>
-<td width="150">
+<td width="150" align="right" valign="top">
 
 <img width="150" height="150" alt="Mongryong waving" src="https://github.com/user-attachments/assets/8ccb4959-81f6-4a76-a32a-e0394e99f820" />
 
@@ -24,28 +24,28 @@
   <a href="https://github.com/ahmaddii">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/malik-ahmad-rasheed-3768902a9/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://www.instagram.com/techcraft_startups/">
+   <a href="https://www.instagram.com/pulsarx.inc/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://web.facebook.com/profile.php?id=100041117103827">
+   <a href="https://www.facebook.com/mlk.ahmd.585443/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-   <a href="https://web.facebook.com/profile.php?id=100041117103827">
+   <a href="https://x.com/_ahmaddii">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,linux,figma,kali,cpp,androidstudio&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,linux,figma,kali,cpp,androidstudio,docker,vercel&perline=6)](https://skillicons.dev)
 
 ### Frontend Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap,react,python,ts,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap,react,python,ts)](https://skillicons.dev)
 
 ### Backend Languages:
-[![My Skills](https://skillicons.dev/icons?i=mysql,go,supabase,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,go,supabase,postgres)](https://skillicons.dev)
 
 ### Machine Learning / Data Science:
 [![My Skills](https://skillicons.dev/icons?i=sklearn,anaconda&perline=5)](https://skillicons.dev)
