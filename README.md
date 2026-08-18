@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malik Ahmad Rasheed</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ahmaddii/ahmaddii/main/assets/mongryong_hi.gif" width="150" alt="Mongryong waving"/>
+  <img width="150" height="150" alt="Mongryong waving" src="https://github.com/user-attachments/assets/8ccb4959-81f6-4a76-a32a-e0394e99f820" />
 </p>
 
 - 🔭 I’m currently working on AI And Machine Learning
